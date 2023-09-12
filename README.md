@@ -48,7 +48,7 @@ I'm graduating in Information Systems from ICMC/USP and I'm currently working as
 
 <div>
   <a href = "mailto:j.lucaspereira@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-lucaspereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joaolucas-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ![Snake animation](https://github.com/joaolucasp/joaolucasp/blob/output/github-contribution-grid-snake.svg)
