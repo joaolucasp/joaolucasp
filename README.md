@@ -4,7 +4,8 @@
 
 ### **About me**
 
-I'm graduating in Information Systems from ICMC/USP and I'm currently working as a Quality Assurance Analyst internship at Tokenlab. In my free time I like to study web development, creating projects for personal purposes.
+I'm graduating in Information Systems from ICMC/USP and I currently work as a Software QA Engineer at Tokenlab. In my spare time I like to study new e2e test automation frameworks and important tools for the testing area.
+Additionally, I enjoy creating templates and architectures for web test automation with Cypress.
 
 <br>
 
