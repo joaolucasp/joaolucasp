@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b3263d&height=150&section=header&text=João+Lucas+Pereira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Lucas+Pereira;I'm+21+years+old;I'm+from+São+Carlos,+SP;I+study+Information+Systems+at+USP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### **About me**
 
-I'm graduating in Information Systems from ICMC/USP and I currently work as a Software QA Engineer at Tokenlab. In my spare time I like to study new e2e test automation frameworks and important tools for the testing area.
+I'm graduating in Information Systems from ICMC/USP and I currently work as a Software QA Analyst at Tokenlab. In my spare time I like to study new e2e test automation frameworks and important tools for the testing area.
 Additionally, I enjoy creating templates and architectures for web test automation with Cypress.
 
 <br>
@@ -16,24 +14,22 @@ Additionally, I enjoy creating templates and architectures for web test automati
 
 -----
 
-### ***⚡ Technologies that I know***
+### ***⚡ Technologies I have experience with***
 
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" width="42" alt="haskell logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="sql logo">
 </p>
 
 <br>
 
-### ***⚡ Tools that I know***
+### ***⚡ Tools I have experience with***
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/>
@@ -50,12 +46,6 @@ Additionally, I enjoy creating templates and architectures for web test automati
 <div>
   <a href = "mailto:j.lucaspereira@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaolucas-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-![Snake animation](https://github.com/joaolucasp/joaolucasp/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  <img src="https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1459A839PA3861PT28D1030520563W10000H10000/views/1,width=1200,height=630,appearanceId=839,backgroundColor=F2F2F2/roses-are-red-violets-are-blue-unexpected-sticker.jpg" width="50%" alt=""/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b3263d&height=150&section=footer"/>
